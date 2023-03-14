@@ -18,7 +18,7 @@ values  (1,'Shaq','Kazimov',24,'shaiq@code.az'),
 		(3,'Chinare','Ibadova',22,'chinara@code.az'),
 		(4,'Ali','Talibov',15,'ali@code.az'),
 		(5,'Cavid','Ismayilzade',22,'cavid@code.az')
-		(
+		
 		
 
 select * from Users
